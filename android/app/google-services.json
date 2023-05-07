@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874304940707",
+    "project_id": "easyway-5ff2b",
+    "storage_bucket": "easyway-5ff2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874304940707:android:f9bf0c0bc284e4a22fad16",
+        "android_client_info": {
+          "package_name": "com.example.easy_park_gardien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874304940707-cae6skdcb5fc52di0v7hclefhraekrh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGX1dXjKFmuerSiCWrHOnFtODXWPykxJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874304940707-cae6skdcb5fc52di0v7hclefhraekrh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
